@@ -2,7 +2,8 @@
 
 - Class Date: November 29 - December 10, 2021
 - Facilitator: @jbrown9100
-
+- cool new change
+- 
 ## Class Resources
 
 - [GitHub for Developers Manual](https://githubtraining.github.io/training-manual/#/)
